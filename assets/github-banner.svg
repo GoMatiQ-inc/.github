@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">MatiQ Inc. Progress has a purpose.</title>
+<desc id="desc">Building businesses and technology for a better quality of life.</desc>
+<rect width="1280" height="360" fill="#f7f8fa"/>
+<rect x="56" y="56" width="48" height="4" fill="#234dcc"/>
+<text x="56" y="100" fill="#20242a" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">MATIQ INC / BUSINESSES. SOFTWARE. VENTURES.</text>
+<text x="52" y="204" fill="#20242a" font-family="Georgia, serif" font-size="76" font-weight="400">Progress has a purpose.</text>
+<text x="56" y="270" fill="#525964" font-family="Arial, sans-serif" font-size="26">Building businesses and technology for a better quality of life.</text>
+<path d="M56 315H1224" stroke="#d9dde3"/>
+</svg>
